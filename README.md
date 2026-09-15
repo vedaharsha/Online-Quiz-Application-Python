@@ -111,6 +111,16 @@ This project helped me strengthen my understanding of:
 - Timer for each question
 - Category-based quizzes
 - Database-based leaderboard
+
+## Screenshots
+
+### Quiz Menu
+
+![Quiz Menu](quiz-menu.png)
+
+### Quiz Result
+
+![Quiz Result](quiz-result.png)
 - User authentication
 - Online multiplayer quiz mode
 
